@@ -1,2 +1,1 @@
-# Precurso-oscar
-este es un repositorio prueba modulo 2
+este proyecto es una prueba como crear 
